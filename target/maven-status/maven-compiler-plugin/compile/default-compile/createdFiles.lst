@@ -1,0 +1,4 @@
+com\mailerlite\qa\pages\HomePage.class
+com\mailerlite\qa\util\TestUtil.class
+com\mailerlite\qa\base\TestBase.class
+com\mailerlite\qa\pages\LoginPage.class
