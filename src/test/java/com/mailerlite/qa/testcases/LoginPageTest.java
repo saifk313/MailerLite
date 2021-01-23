@@ -11,6 +11,12 @@ import com.mailerlite.qa.pages.LoginPage;
 import com.mailerlite.qa.util.TestUtil;
 import com.mailerlite.qa.base.TestBase;
 
+/*
+*
+* Author: Saif A Kazi
+*
+*/
+
 public class LoginPageTest extends TestBase {
 	
 	LoginPage loginPage = new LoginPage();
